@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "nx run calendar-utils:build"
+    "build": "nx run calendar-utils:build",
+    "test": "nx run calendar-utils:test"
   },
   "private": true,
   "dependencies": {
